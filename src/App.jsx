@@ -48,6 +48,7 @@ const validateUserInputs = (e)=>{
     setPrinciple(0)
     setRate(0)
     setYear(0)
+    setInterest(0)
     setValidPrinciple(true)
     setValidRate(true)
     setValidYear(true)
